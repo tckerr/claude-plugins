@@ -11,9 +11,9 @@ claude plugin install workstreams@tckerr
 
 ## Plugins
 
-- **workstreams** ([herdr-orchestration](https://github.com/tckerr/herdr-orchestration)) —
-  run several Claude sessions on one repo at once, each in its own git worktree.
-  An orchestrator provisions and tears down streams; an implementer works in each.
+- [**workstreams**](https://github.com/tckerr/workstreams) — run several Claude
+  sessions on one repo at once, each in its own git worktree. An orchestrator
+  provisions and tears down streams; an implementer works in each.
 
 ## Adding a plugin
 
