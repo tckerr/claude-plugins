@@ -1,0 +1,20 @@
+{
+  "name": "tckerr",
+  "owner": {
+    "name": "Tom Kerr"
+  },
+  "metadata": {
+    "description": "Tom Kerr's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "workstreams",
+      "source": {
+        "source": "github",
+        "repo": "tckerr/herdr-orchestration"
+      },
+      "description": "Parallel workstreams over herdr worktrees: an orchestrator provisions isolated streams, an implementer runs in each, and both read per-repo specs.",
+      "version": "0.1.0"
+    }
+  ]
+}
