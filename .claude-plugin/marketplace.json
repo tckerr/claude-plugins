@@ -14,7 +14,7 @@
         "url": "https://github.com/tckerr/workstreams.git"
       },
       "description": "Parallel workstreams over herdr worktrees: an orchestrator provisions isolated streams, an implementer runs in each, and both read per-repo specs.",
-      "version": "0.2.0"
+      "version": "0.2.1"
     }
   ]
 }
